@@ -29,7 +29,7 @@ Follow the `val.ipynb` to try the validation. You can try to modify the notebook
 
 ## Interface
 
-![in_1](https://user-images.githubusercontent.com/73214361/125187935-80c60480-e264-11eb-96a8-0fef1c2495b5.png  | width=100)
+![in_1](https://user-images.githubusercontent.com/73214361/125187935-80c60480-e264-11eb-96a8-0fef1c2495b5.png =250x250)
 
 ## Citation
 
