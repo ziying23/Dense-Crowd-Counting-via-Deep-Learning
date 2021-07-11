@@ -27,6 +27,10 @@ Try `python train.py train.json val.json 0 0` to start training process.
 
 Follow the `val.ipynb` to try the validation. You can try to modify the notebook and see the output of each image.
 
+## Interface
+
+<img src="https://github.com/ziying23/Dense-Crowd-Counting-via-Deep-Learning/blob/main/in_1.png" width="200" height="400" />
+
 
 ## Citation
 
