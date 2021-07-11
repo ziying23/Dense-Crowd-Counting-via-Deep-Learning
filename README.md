@@ -29,7 +29,7 @@ Follow the `val.ipynb` to try the validation. You can try to modify the notebook
 
 ## Interface
 
-<img src="https://github.com/ziying23/Dense-Crowd-Counting-via-Deep-Learning/blob/main/in_1.png" width="200" height="400" />
+<img src="https://github.com/ziying23/Dense-Crowd-Counting-via-Deep-Learning/blob/main/in_1.png" width="400" height="400" />
 
 
 ## Citation
