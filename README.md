@@ -15,7 +15,7 @@ CUDA: 9.2
 
 ## Ground Truth
 
-Please follow the `main.ipynb ` to generate the ground truth. It shall take some time to generate the dynamic ground truth. Note you need to generate your own json file.
+Please follow the `main.ipynb` to generate the ground truth. It shall take some time to generate the dynamic ground truth. Note you need to generate your own json file.
 
 ## Training Process
 
