@@ -27,9 +27,6 @@ Try `python train.py train.json val.json 0 0` to start training process.
 
 Follow the `val.ipynb` to try the validation. You can try to modify the notebook and see the output of each image.
 
-## Interface
-
-![in_1](https://user-images.githubusercontent.com/73214361/125187935-80c60480-e264-11eb-96a8-0fef1c2495b5.png =250x250)
 
 ## Citation
 
