@@ -31,6 +31,8 @@ Follow the `val.ipynb` to try the validation. You can try to modify the notebook
 
 <img src="https://github.com/ziying23/Dense-Crowd-Counting-via-Deep-Learning/blob/main/in_1.png" width="300" height="400" />
 
+<img src="https://github.com/ziying23/Dense-Crowd-Counting-via-Deep-Learning/blob/main/in_2.png" width="300" height="400" />
+
 
 ## Citation
 
