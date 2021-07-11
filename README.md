@@ -36,7 +36,6 @@ Follow the `val.ipynb` to try the validation. You can try to modify the notebook
   year={2018}
 }
 ```
-Please cite the Shanghai datasets and other works if you use them.
 
 ```
 @inproceedings{zhang2016single,
