@@ -48,3 +48,5 @@ Follow the `val.ipynb` to try the validation. You can try to modify the notebook
   year={2016}
 }
 ```
+
+@INPROCEEDINGS{8658887,  author={Chen, Xinya and Bin, Yanrui and Sang, Nong and Gao, Changxin},  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},   title={Scale Pyramid Network for Crowd Counting},   year={2019},  volume={},  number={},  pages={1941-1950},  doi={10.1109/WACV.2019.00211}}
